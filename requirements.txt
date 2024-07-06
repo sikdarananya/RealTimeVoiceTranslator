@@ -1,0 +1,4 @@
+SpeechRecognition 
+googletrans 
+pyttsx3 
+playsound
